@@ -1,8 +1,0 @@
-## Interface: 90205
-## Title: HelloWorld
-## Notes: Shows a message of "Hello, World!" on screen.
-## Author: Nick Amato
-## Version: 0.0.1
-## SavedVariables: LoggedData
-
-HelloWorld.lua
